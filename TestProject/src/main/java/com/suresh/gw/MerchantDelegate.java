@@ -10,6 +10,7 @@ public class MerchantDelegate {
 
 		System.out.println("This is merchant delegate");
 		System.out.println("This is merchant fourth update");
+		System.out.println("updated from desktop");
 	}
 
 }
