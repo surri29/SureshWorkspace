@@ -9,6 +9,7 @@ public class MerchantDelegate {
 		// TODO Auto-generated method stub
 
 		System.out.println("This is merchant delegate");
+		System.out.println("This is merchant fourth update");
 	}
 
 }
